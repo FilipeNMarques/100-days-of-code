@@ -18,3 +18,13 @@
 **Aprendizados:** Aprendi sobre como funciona o setState e como funciona a árvore dos widgets dentro do código.
 
 **Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/2FizY6J
+
+
+### Dia 2: 19 de junho, 2019
+##### Continuando com Flutter -
+
+**Progresso do dia:**  Quase terminei o módulo inicial dos widgets básicos do flutter.
+
+**Aprendizados:** Aprendi bastante sobre containers, column e rows, dentro deles, vi também sobre posicionamento e a facilidade de trabalhbar com o Flex dentro do Flutter, muito massa! :)
+
+**Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/2FizY6J
