@@ -28,3 +28,12 @@
 **Aprendizados:** Aprendi bastante sobre containers, column e rows, dentro deles, vi também sobre posicionamento e a facilidade de trabalhbar com o Flex dentro do Flutter, muito massa! :)
 
 **Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/2FizY6J
+
+### Dia 3: 20 de junho, 2019
+##### Continuando Node -
+
+**Progresso do dia:**  Mais trẽs aulas e um exercicio em Node.
+
+**Aprendizados:** Nas aulas de hoje, vi bastante coisa sobre módulos do Node, interação, passando parâmetros entre eles, exercício passando parâmetros e aprendi sobre o funcionamento do 'global' e do 'this'.
+
+**Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/2FizY6J
