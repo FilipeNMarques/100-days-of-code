@@ -37,3 +37,13 @@
 **Aprendizados:** Nas aulas de hoje, vi bastante coisa sobre módulos do Node, interação, passando parâmetros entre eles, exercício passando parâmetros e aprendi sobre o funcionamento do 'global' e do 'this'.
 
 **Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/2FizY6J
+
+
+### Dia 4: 21 de junho, 2019
+##### Mais Node :) -
+
+**Progresso do dia:**  Lendo e escrevendo arquivos com node e introdução ao json.
+
+**Aprendizados:** Nas aulas de hoje, aprendi a ler e escrever arquivos em node. Vimos também o padrão correto de leitura de arquivos json. 
+
+**Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/2FizY6J
