@@ -17,7 +17,7 @@
 
 **Aprendizados:** Aprendi sobre como funciona o setState e como funciona a árvore dos widgets dentro do código.
 
-**Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/2FizY6J
+**Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/RepoCodaComigo
 
 
 ### Dia 2: 19 de junho, 2019
@@ -27,7 +27,7 @@
 
 **Aprendizados:** Aprendi bastante sobre containers, column e rows, dentro deles, vi também sobre posicionamento e a facilidade de trabalhbar com o Flex dentro do Flutter, muito massa! :)
 
-**Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/2FizY6J
+**Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/RepoCodaComigo
 
 ### Dia 3: 20 de junho, 2019
 ##### Continuando Node -
@@ -36,7 +36,7 @@
 
 **Aprendizados:** Nas aulas de hoje, vi bastante coisa sobre módulos do Node, interação, passando parâmetros entre eles, exercício passando parâmetros e aprendi sobre o funcionamento do 'global' e do 'this'.
 
-**Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/2FizY6J
+**Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/RepoCodaComigo
 
 
 ### Dia 4: 21 de junho, 2019
@@ -46,4 +46,4 @@
 
 **Aprendizados:** Nas aulas de hoje, aprendi a ler e escrever arquivos em node. Vimos também o padrão correto de leitura de arquivos json. 
 
-**Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/2FizY6J
+**Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/RepoCodaComigo
