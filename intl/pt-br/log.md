@@ -47,3 +47,12 @@
 **Aprendizados:** Nas aulas de hoje, aprendi a ler e escrever arquivos em node. Vimos também o padrão correto de leitura de arquivos json. 
 
 **Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/RepoCodaComigo
+
+### Dia 5: 22 de junho, 2019
+##### Dia de Flutter! s2) -
+
+**Progresso do dia:**  Deia de recriar widgets.
+
+**Aprendizados:** Utilizando os conhecimentos que aparendemos até agora no curso para recriar widgets! Muito bacana!! Mesmo sendo widgets básicos, é muito legal ver a minha evolução! :D 
+
+**Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/RepoCodaComigo
