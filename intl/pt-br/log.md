@@ -51,8 +51,18 @@
 ### Dia 5: 22 de junho, 2019
 ##### Dia de Flutter! s2) -
 
-**Progresso do dia:**  Deia de recriar widgets.
+**Progresso do dia:**  Dia de recriar widgets.
 
 **Aprendizados:** Utilizando os conhecimentos que aparendemos até agora no curso para recriar widgets! Muito bacana!! Mesmo sendo widgets básicos, é muito legal ver a minha evolução! :D 
+
+**Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/RepoCodaComigo
+
+
+### Dia 6: 24 de junho, 2019
+##### Dia de Flutter! s2) -
+
+**Progresso do dia:**  Listas e scrolls.
+
+**Aprendizados:** Aprendi a atulizar o SingleChildScrollView e o ListView! Nos exemplos, criamos alfumas listas, e depois uma lista mais utilizada, com icons, title e subtitle. Bem bacana! 
 
 **Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/RepoCodaComigo
