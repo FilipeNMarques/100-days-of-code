@@ -49,7 +49,7 @@
 **Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/RepoCodaComigo
 
 ### Dia 5: 22 de junho, 2019
-##### Dia de Flutter! s2) -
+##### Dia de Flutter! s2 -
 
 **Progresso do dia:**  Dia de recriar widgets.
 
@@ -58,11 +58,11 @@
 **Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/RepoCodaComigo
 
 
-### Dia 6: 24 de junho, 2019
-##### Dia de Flutter! s2) -
+### Dia 7: 26 de junho, 2019
+#####  Padrão Middleware no NodeJs-
 
-**Progresso do dia:**  Listas e scrolls.
+**Progresso do dia:**  Avanço de duas aulas sobre padrão de senvenvolvimento Backend
 
-**Aprendizados:** Aprendi a atulizar o SingleChildScrollView e o ListView! Nos exemplos, criamos alfumas listas, e depois uma lista mais utilizada, com icons, title e subtitle. Bem bacana! 
+**Aprendizados:** Hoje não consegui por muita coisa em prática, mas peguei algumas informaçãoes para melhorar minha API que já está rodando com Express.
 
 **Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/RepoCodaComigo
