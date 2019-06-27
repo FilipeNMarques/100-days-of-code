@@ -66,3 +66,13 @@
 **Aprendizados:** Hoje não consegui por muita coisa em prática, mas peguei algumas informaçãoes para melhorar minha API que já está rodando com Express.
 
 **Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/RepoCodaComigo
+
+
+### Dia 8: 27 de junho, 2019
+#####  Mais Nodejs-
+
+**Progresso do dia:**  Iniciando exemplo de API com express
+
+**Aprendizados:** Utilizando os conceitos passados nas aulas passadas, demos início ao maior exemplo do módulo de node que é a criação de uma api utilizando express.
+
+**Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/RepoCodaComigo
