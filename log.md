@@ -69,3 +69,23 @@
 **Aprendizados:** Aprendi a atulizar o SingleChildScrollView e o ListView! Nos exemplos, criamos alfumas listas, e depois uma lista mais utilizada, com icons, title e subtitle. Bem bacana!
 
 **Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/RepoCodaComigo
+
+### Dia 7: 26 de junho, 2019
+
+##### Padrão Middleware no NodeJs-
+
+**Progresso do dia:** Avanço de duas aulas sobre padrão de senvenvolvimento Backend
+
+**Aprendizados:** Hoje não consegui por muita coisa em prática, mas peguei algumas informaçãoes para melhorar minha API que já está rodando com Express.
+
+**Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/RepoCodaComigo
+
+### Dia 8: 27 de junho, 2019
+
+##### Mais Nodejs-
+
+**Progresso do dia:** Iniciando exemplo de API com express
+
+**Aprendizados:** Utilizando os conceitos passados nas aulas passadas, demos início ao maior exemplo do módulo de node que é a criação de uma api utilizando express.
+
+**Repositório do desafio e da iniciativa Coda Comigo:** http://bit.ly/RepoCodaComigo
