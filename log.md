@@ -99,3 +99,13 @@
 **Aprendizados:** Hoje foi um dia mais de treinar, por em prática do que aprender coisas novas, me impressionei com a facilidade que tive de repoduzir a tela! Muito feliz :)
 
 \*\*[Repositório do desafio e da iniciativa Coda Comigo:](http://bit.ly/RepoCodaComigo)
+
+### Dia 10: 29 de junho, 2019
+
+##### Flutter e ClipPath -
+
+**Progresso do dia:** Aula e exercício sobre ClipPath
+
+**Aprendizados:** Hoje comecei a aprender sobre o CLipPath, confesso que não consegui pegar 100%, mas tudo é questão de prática, não é mesmo? :D
+
+\*\*[Repositório do desafio e da iniciativa Coda Comigo:](http://bit.ly/RepoCodaComigo)
