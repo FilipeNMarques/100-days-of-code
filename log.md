@@ -109,3 +109,44 @@
 **Aprendizados:** Hoje comecei a aprender sobre o CLipPath, confesso que não consegui pegar 100%, mas tudo é questão de prática, não é mesmo? :D
 
 \*\*[Repositório do desafio e da iniciativa Coda Comigo:](http://bit.ly/RepoCodaComigo)
+
+### Dia 11: 30 de junho, 2019
+
+##### Flutter e MaterialApp -
+
+**Progresso do dia:** Aulas sobre Meterial Deisgn e App
+
+**Aprendizados:** Aprendi bastante sobre o material app e toda sua facilidade na hora do desenvolvimento.
+Finalizando o módulo com um belo exercício. usando AppBar e BottomNavigationBar.
+
+\*\*[Repositório do desafio e da iniciativa Coda Comigo:](http://bit.ly/RepoCodaComigo)
+
+### Dia 12: 30 de junho, 2019
+
+##### Node e Express -
+
+**Progresso do dia:** Finalizando Exemplo de uma API simples com express
+
+**Aprendizados:** Continuando as aulas de Node, vimos sobre chamadas na api, GET, POST, PUT e DELETE. Finalizando com o exercício da API com express.
+
+\*\*[Repositório do desafio e da iniciativa Coda Comigo:](http://bit.ly/RepoCodaComigo)
+
+### Dia 13: 1 de julho, 2019
+
+##### Node e prompt de comando -
+
+**Progresso do dia:** Entradas e saídas padrão do Node
+
+**Aprendizados:** Última aula desse módulo básico do Node foi mostrando as entradas e saídas. Aprendi a passar mensagens e tratar a informação que o usuário passou quando rodou o comando.
+
+\*\*[Repositório do desafio e da iniciativa Coda Comigo:](http://bit.ly/RepoCodaComigo)
+
+### Dia 14: 1 de julho, 2019
+
+##### Flutter com SnackBar e Alerts-
+
+**Progresso do dia:** Entradas e saídas padrão do Node
+
+**Aprendizados:** Continuando as aulas de Flutter, comecei a ver sobre snackBars. No repo já tem o primeiro exemplo passado na aula.
+
+\*\*[Repositório do desafio e da iniciativa Coda Comigo:](http://bit.ly/RepoCodaComigo)
