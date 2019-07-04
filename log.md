@@ -121,7 +121,7 @@ Finalizando o módulo com um belo exercício. usando AppBar e BottomNavigationBa
 
 \*\*[Repositório do desafio e da iniciativa Coda Comigo:](http://bit.ly/RepoCodaComigo)
 
-### Dia 12: 30 de junho, 2019
+### Dia 12: 1 de julho, 2019
 
 ##### Node e Express -
 
@@ -131,7 +131,7 @@ Finalizando o módulo com um belo exercício. usando AppBar e BottomNavigationBa
 
 \*\*[Repositório do desafio e da iniciativa Coda Comigo:](http://bit.ly/RepoCodaComigo)
 
-### Dia 13: 1 de julho, 2019
+### Dia 13: 2 de julho, 2019
 
 ##### Node e prompt de comando -
 
@@ -141,12 +141,22 @@ Finalizando o módulo com um belo exercício. usando AppBar e BottomNavigationBa
 
 \*\*[Repositório do desafio e da iniciativa Coda Comigo:](http://bit.ly/RepoCodaComigo)
 
-### Dia 14: 1 de julho, 2019
+### Dia 14: 3 de julho, 2019
 
 ##### Flutter com SnackBar e Alerts-
 
-**Progresso do dia:** Entradas e saídas padrão do Node
+**Progresso do dia:** Iniciando o módulo de Snackbars e Dialogs
 
 **Aprendizados:** Continuando as aulas de Flutter, comecei a ver sobre snackBars. No repo já tem o primeiro exemplo passado na aula.
+
+\*\*[Repositório do desafio e da iniciativa Coda Comigo:](http://bit.ly/RepoCodaComigo)
+
+### Dia 15: 4 de julho, 2019
+
+##### Flutter com SnackBar e Dialogs-
+
+**Progresso do dia:** Finalizando o módulo de dialogs e snackbars
+
+**Aprendizados:** Aprendemos as chamadas básicas dos dialogs e snackbars, bem massa! :)
 
 \*\*[Repositório do desafio e da iniciativa Coda Comigo:](http://bit.ly/RepoCodaComigo)
